@@ -25,7 +25,7 @@
 
 ## 📋 Sobre este Repositório
 
-Este repositório reúne os materiais necessários para a realização da **Atividade Prática** da disciplina de **Topografia e Geoprocessamento**, do curso de **Arquitetura e Urbanismo** do Grupo SER Educacional.
+Este repositório reúne os materiais necessários para a realização da **Atividade Prática** da disciplina de **Topografia e Geoprocessamento**, do curso de **Arquitetura e Urbanismo e Gestão Ambiental** do Grupo SER Educacional.
 
 O guia disponibilizado apresenta um passo a passo detalhado para orientar o estudante na execução da atividade.
 
